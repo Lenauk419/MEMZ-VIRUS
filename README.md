@@ -1,7 +1,5 @@
-# MEMZ_Destructive_Clean-Download
+# MEMZ_VIRUS
 
-This is a virus!
+This is a Virus for VMs
 
-Create by Leurak(His YouTube https://www.youtube.com/channel/UCnye-JRGe8gWjaslsvrh63g)
-
-See my YouTube video about MEMZ.exe https://youtu.be/9iglWm4SkIs
+Thanks to Leurak to Create this virus
